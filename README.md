@@ -8,4 +8,6 @@ Hey there! This repo holds my task submissions for the Python Development Intern
 
 **Task 2 - Student Grade Tracker:** A simple Python program that takes the student's name, asks for the number of subjects and marks, then calculates the total, average, and final grade.
 
+**Task 3 - Memory Puzzle Game:** A simple Python game where the player has to match pairs of cards within a given time limit.
+
 I'll be updating this repo as I complete the rest of the internship tasks over the coming weeks. Peace Out!
