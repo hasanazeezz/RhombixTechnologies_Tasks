@@ -1,0 +1,4 @@
+Name: Ali
+Skills: Python, Communication, Problem Solving
+Education: Bachelor's Degree in Computer Science
+Experience: Beginner Python projects
