@@ -10,4 +10,6 @@ Hey there! This repo holds my task submissions for the Python Development Intern
 
 **Task 3 - Memory Puzzle Game:** A simple Python game where the player has to match pairs of cards within a given time limit.
 
+**Task 4 - Automated Resume Screener:** A simple Python program that checks text-based resumes for required skills and education, calculates matching scores, and displays shortlisting results.
+
 I'll be updating this repo as I complete the rest of the internship tasks over the coming weeks. Peace Out!
